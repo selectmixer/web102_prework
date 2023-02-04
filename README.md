@@ -23,7 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='web102_prework\web102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/selectmixer/web102_prework/blob/main/web102_prework.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Licecap!
